@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "540839404771",
+    "firebase_url": "https://chatee-a9802.firebaseio.com",
+    "project_id": "chatee-a9802",
+    "storage_bucket": "chatee-a9802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540839404771:android:e86787a8d230000d2011d6",
+        "android_client_info": {
+          "package_name": "com.neil.chatee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540839404771-5h9hmas33ufvfajh6lfdgvs908jg4u7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxmmLbVbRhEg8kEQCflrlVs-DL1t7NeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540839404771-5h9hmas33ufvfajh6lfdgvs908jg4u7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540839404771-ehkl3sh7inlmvhtnlno064l593j9ckj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neil.chatee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
